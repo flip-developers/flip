@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "neuropol";
+    src: url("neuropol.ttf") format("truetype");
+}
+
+.neuropol-font{
+    font-family: "neuropol";  
+    font-size: 20px;
+} 
